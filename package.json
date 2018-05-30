@@ -1,0 +1,24 @@
+{
+  "name": "blank_project",
+  "version": "1.0.0",
+  "description": "Default template project for p5.js test environment. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "p5.js",
+    "p5js",
+    "node.js",
+    "test",
+    "blank",
+    "template",
+    "default"
+  ],
+  "author": "ac2",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
